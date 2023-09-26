@@ -1,0 +1,12 @@
+For using web Scrapping
+
+Create 2 folders Input and output.
+
+select the website u wanna extact.
+
+and follow the video Procedure in https://www.youtube.com/watch?v=A8cLOfItmv8 from 12 minutes.
+
+Dependencies
+
+UIStudio Community edition
+
